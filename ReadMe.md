@@ -1,6 +1,6 @@
 Title - MindEase
 <br>
-Description - A smart headband which detets stress with Sensor Data and alters if stress is high and also provides exercises, Soothing music , pictures and blogs to calm stress.
+Description - A smart headband which detets stress with Sensor Data and alerts if stress is high and also provides exercises, Soothing music , pictures and blogs to calm stress.
 <br>
 Author - Code Guess
 <br>
